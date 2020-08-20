@@ -26,7 +26,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   
-  string = array.join("index_number")
+  string = array.join(index_number)
   string
   
   
