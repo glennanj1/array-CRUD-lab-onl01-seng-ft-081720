@@ -26,7 +26,8 @@ end
 
 def retrieve_element_from_index(array, index_number)
   
-  
+  element = array[] 
+  index_number = element
   
   
 end
